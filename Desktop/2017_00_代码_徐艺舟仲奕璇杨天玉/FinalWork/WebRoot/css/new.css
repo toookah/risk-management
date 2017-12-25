@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+body
+  { 
+
+   margin: 0;  
+    background-image: url(../images/covernew.jpg);    
+    background-repeat:no-repeat;  
+        background-position:0% 0%;  
+    background-size:cover;  
+    background-color: #22C3AA;  
+    text-align:center
+
+  }
